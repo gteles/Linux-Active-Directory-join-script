@@ -1,11 +1,9 @@
-# Linux-Active-Directory-join-script By Pierre 2018
+# Linux-Active-Directory-join-script By Pierre 2018 - Cleanned and updated to Ubuntu 18 and 19
 
-Supported OS's: Ubuntu 14-18 + mate,Debian ,Cent OS,Rasbian ,Fedora, Linux Mint and Kali
+Supported OS's: Ubuntu 18-19
 
 This is a script for Active Directory join with realmd.
 and is a result of a lot of small upgrades according as needs has emerged.
-
-<p>Also see<a href="https://github.com/PierreGode/Linux-Active-Directory-join-script/wiki"> Wiki</a></p>
 
 <H4>But why?</H4>
 <p>Joining to domain is fairly easy, but then you have all the configuration around it to get everything to work
