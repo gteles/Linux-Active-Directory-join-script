@@ -150,6 +150,6 @@ How to git?
 
 On linux client install git = sudo apt-get install git -y (or) sudo yum install git
 
-Clone this repo = sudo git clone https://github.com/PierreGode/Linux-Active-Directory-join-script.git
+Clone this repo = sudo git clone https://github.com/gteles/Linux-Active-Directory-join-script.git
 
 To update repo to latest version = in the folder Linux-Active-Directory-join-script/    run: sudo git pull
